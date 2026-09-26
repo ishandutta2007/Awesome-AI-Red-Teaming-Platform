@@ -29,6 +29,7 @@ This repository tracks notable **SaaS platforms** and **open-source frameworks**
 - [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#️-disclaimer)
 - [📈 Star History](#-star-history)
 
@@ -116,6 +117,19 @@ Contributions are welcome and appreciated! Follow these simple steps:
 2. 📝 **Add/edit** entries in `README.md` following the standard table/list format.
 3. ℹ️ **Provide accurate details**: Name, link, starting tier pricing, free trial/tier limits, valuation/funding metric, and 1–2 sentence description.
 4. 🚀 **Submit a Pull Request** with a clear explanation of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this repository! If you find this curated list helpful for your AI security research, red teaming, or engineering work, please consider supporting the project:
+
+- 🌟 **Star** this repository to increase visibility and help others discover it.
+- 🍴 **Fork** and contribute to keep the platform entries accurate and up to date.
+- 📢 **Share** with your security teams, AI developers, and network.
+- ☕ **Buy me a coffee / Sponsor**: If you would like to support ongoing maintenance, updates, and research, you can sponsor the creator via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
 
 ---
 
