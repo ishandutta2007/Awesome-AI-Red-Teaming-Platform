@@ -66,45 +66,45 @@ The table below lists leading enterprise SaaS products for AI security testing, 
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a list of top open-source repositories for AI red teaming, vulnerability scanning, and guardrails evaluation, **sorted descending by GitHub star count**.
+Below is a list of top open-source repositories for AI red teaming, vulnerability scanning, and guardrails evaluation, **sorted descending by GitHub Stars_Count**.
 
-1. **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)](https://github.com/promptfoo/promptfoo/stargazers)  
+1. **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)](https://github.com/promptfoo/promptfoo/stargazers)  
    *CLI & eval framework for LLM red teaming, prompt injection testing, OWASP LLM Top 10 coverage, and automated CI/CD security gates (MIT License).*
 
-2. **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social)](https://github.com/confident-ai/deepeval/stargazers)  
+2. **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social)](https://github.com/confident-ai/deepeval/stargazers)  
    *The open-source LLM evaluation framework—unit testing for LLMs, red-teaming probe generation, hallucination metrics, and toxicity evaluations (Apache 2.0).*
 
-3. **[Arize Phoenix](https://github.com/arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/arize-ai/phoenix?style=social)](https://github.com/arize-ai/phoenix/stargazers)  
+3. **[Arize Phoenix](https://github.com/arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/arize-ai/phoenix?style=social)](https://github.com/arize-ai/phoenix/stargazers)  
    *AI observability & eval platform for LLMs—adversarial evaluation datasets, prompt vulnerability tracking, and agent tracing (ELv2).*
 
-4. **[garak (NVIDIA)](https://github.com/NVIDIA/garak)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social)](https://github.com/NVIDIA/garak/stargazers)  
+4. **[garak (NVIDIA)](https://github.com/NVIDIA/garak)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social)](https://github.com/NVIDIA/garak/stargazers)  
    *Leading open-source LLM vulnerability scanner—probe-based testing for jailbreaks, prompt injection, data leakage, toxicity, and failure mode scanning (Apache 2.0).*
 
-5. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social)](https://github.com/guardrails-ai/guardrails/stargazers)  
+5. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social)](https://github.com/guardrails-ai/guardrails/stargazers)  
    *Adding structure, type validation, and security guardrails to LLM outputs while testing defensive policies under attack (Apache 2.0).*
 
-6. **[NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
+6. **[NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
    *Open-source toolkit for adding programmable rails to LLM-based conversational applications, frequently used as target suites for red-team verification (Apache 2.0).*
 
-7. **[PyRIT (Microsoft)](https://github.com/Azure/PyRIT)** [![GitHub stars](https://img.shields.io/github/stars/Azure/PyRIT?style=social)](https://github.com/Azure/PyRIT/stargazers)  
+7. **[PyRIT (Microsoft)](https://github.com/Azure/PyRIT)** [![GitHub_Stars](https://img.shields.io/github/stars/Azure/PyRIT?style=social)](https://github.com/Azure/PyRIT/stargazers)  
    *Microsoft’s Python Risk Identification Toolkit for Generative AI—orchestrated, multi-turn, adaptive red-team campaigns for AI agents and models (MIT License).*
 
-8. **[Purple Llama (Meta)](https://github.com/meta-llama/PurpleLlama)** [![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social)](https://github.com/meta-llama/PurpleLlama/stargazers)  
+8. **[Purple Llama (Meta)](https://github.com/meta-llama/PurpleLlama)** [![GitHub_Stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social)](https://github.com/meta-llama/PurpleLlama/stargazers)  
    *Meta's umbrella project for open-source cybersecurity tools (Llama Guard, CyberSec Eval) for trust, safety, and red-team evaluation.*
 
-9. **[LLM Guard (Protect AI)](https://github.com/protectai/llm-guard)** [![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social)](https://github.com/protectai/llm-guard/stargazers)  
+9. **[LLM Guard (Protect AI)](https://github.com/protectai/llm-guard)** [![GitHub_Stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social)](https://github.com/protectai/llm-guard/stargazers)  
    *Open-source input/output scanner designed to detect prompt injections, toxicity, data leakage, and security risks in real-time (MIT License).*
 
-10. **[Rebuff AI](https://github.com/leptonai/rebuff)** [![GitHub stars](https://img.shields.io/github/stars/leptonai/rebuff?style=social)](https://github.com/leptonai/rebuff/stargazers)  
+10. **[Rebuff AI](https://github.com/leptonai/rebuff)** [![GitHub_Stars](https://img.shields.io/github/stars/leptonai/rebuff?style=social)](https://github.com/leptonai/rebuff/stargazers)  
     *Open-source prompt injection detection framework providing multi-layered defense and attack simulation vectors for LLM apps (Apache 2.0).*
 
-11. **[HarmBench (CAIS)](https://github.com/centerforaisafety/HarmBench)** [![GitHub stars](https://img.shields.io/github/stars/centerforaisafety/HarmBench?style=social)](https://github.com/centerforaisafety/HarmBench/stargazers)  
+11. **[HarmBench (CAIS)](https://github.com/centerforaisafety/HarmBench)** [![GitHub_Stars](https://img.shields.io/github/stars/centerforaisafety/HarmBench?style=social)](https://github.com/centerforaisafety/HarmBench/stargazers)  
     *Standardized evaluation framework for automated red teaming and jailbreak robust testing across open and closed LLMs (MIT License).*
 
-12. **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?style=social)](https://github.com/JailbreakBench/jailbreakbench/stargazers)  
+12. **[JailbreakBench](https://github.com/JailbreakBench/jailbreakbench)** [![GitHub_Stars](https://img.shields.io/github/stars/JailbreakBench/jailbreakbench?style=social)](https://github.com/JailbreakBench/jailbreakbench/stargazers)  
     *Open benchmark for assessing LLM vulnerability to jailbreak attacks with standardized evaluation protocols and datasets (MIT License).*
 
-13. **[Vigil LLM](https://github.com/deadbits/vigil-llm)** [![GitHub stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)](https://github.com/deadbits/vigil-llm/stargazers)  
+13. **[Vigil LLM](https://github.com/deadbits/vigil-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)](https://github.com/deadbits/vigil-llm/stargazers)  
     *Open-source security scanner for prompt injection detection using vector databases, heuristic scanners, and canary tokens (Apache 2.0).*
 
 ---
